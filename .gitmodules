@@ -1,0 +1,6 @@
+[submodule "pet-mate_"]
+	path = pet-mate_
+	url = https://github.com/dahyun753/pet-mate_.git
+[submodule "pet-mate-backend"]
+	path = pet-mate-backend
+	url = https://github.com/dahyun753/pet-mate-backend.git
